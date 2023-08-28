@@ -1,1 +1,3 @@
-# odin-project
+# odin-recipes
+
+A simple website!
